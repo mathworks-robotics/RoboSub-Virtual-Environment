@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="AUV.slx" GroupUUID="default" Icon="" Name="AUV" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="04ea6319-a1d1-43a8-b8ab-9c7ed2987948"/>
+</Info>
